@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+./pre_weight/mobilenet_v2.pth
+./pre_weight/resnet18.pth
+./pre_weight/resnet50.pth
+./temp/myself_95.pth
+/util/简体转繁体.py
+./log
+./book
+./data/myself_data
